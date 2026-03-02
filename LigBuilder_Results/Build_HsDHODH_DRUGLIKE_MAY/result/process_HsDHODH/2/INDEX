@@ -1,0 +1,31 @@
+#
+# This file is create by LigBuilder/Process
+# It lists the properties of the selected molecules.
+# Author LigBuilder V3 User_Diana
+# Creation time: Tue Feb 24 21:28:43 2026
+#
+# 1nd column: path of the mol2 file
+# 2th column: formula
+# 3th column: molecular weight
+# 4th column: calculated LogP
+# 5th column: binding score (pKd)
+# 6th column: structure score
+# 7th column: synthesize score
+# 8th column: chemical score
+#
+result/process_HsDHODH/2/000000001.mol2	C14H15NO2       229	  2.02	 4.13	 3.85	 2.22	-80
+result/process_HsDHODH/2/000000002.mol2	C14H15NO2       229	  2.02	 4.04	 3.08	 2.22	-80
+result/process_HsDHODH/2/000000003.mol2	C14H15NO2       229	  2.02	 4.13	 3.85	 2.22	-80
+result/process_HsDHODH/2/000000004.mol2	C14H15NO2       229	  2.02	 4.04	 3.08	 2.22	-80
+result/process_HsDHODH/2/000000005.mol2	C15H21N4O4      321	  0.76	 4.26	 8.13	 6.58	-170
+result/process_HsDHODH/2/000000006.mol2	C10H8NO6        238	 -0.38	 4.02	 8.75	 3.33	-150
+result/process_HsDHODH/2/000000007.mol2	C14H15NO2       229	  2.02	 4.13	 3.85	 2.22	-80
+result/process_HsDHODH/2/000000008.mol2	C14H15NO2       229	  2.02	 4.04	 3.08	 2.22	-80
+result/process_HsDHODH/2/000000009.mol2	C16H14N3O3      296	  1.41	 4.03	-0.08	22.40	-100
+result/process_HsDHODH/2/000000010.mol2	C16H14N3O3      296	  1.41	 4.03	-0.08	22.40	-100
+result/process_HsDHODH/2/000000011.mol2	C16H14N3O3      296	  1.41	 4.03	-0.08	22.40	-100
+result/process_HsDHODH/2/000000012.mol2	C17H16N3O3      310	  1.66	 4.15	 1.21	23.00	-100
+result/process_HsDHODH/2/000000013.mol2	C17H16N3O3      310	  1.66	 4.16	 1.25	23.00	-100
+result/process_HsDHODH/2/000000014.mol2	C17H16N3O3      310	  1.66	 4.16	 1.26	23.00	-100
+result/process_HsDHODH/2/000000015.mol2	C17H16N3O3      310	  1.66	 4.17	 1.17	23.00	-100
+result/process_HsDHODH/2/000000016.mol2	C17H16N3O3      310	  1.66	 4.15	 1.28	23.00	-100

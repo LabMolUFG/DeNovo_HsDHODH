@@ -1,0 +1,56 @@
+#
+# This file is create by LigBuilder/Process
+# It lists the properties of the selected molecules.
+# Author LigBuilder V3 User_Diana
+# Creation time: Sat Feb 28 19:02:54 2026
+#
+# 1nd column: path of the mol2 file
+# 2th column: formula
+# 3th column: molecular weight
+# 4th column: calculated LogP
+# 5th column: binding score (pKd)
+# 6th column: structure score
+# 7th column: synthesize score
+# 8th column: chemical score
+#
+result/process_HsDHODH/16/000000001.mol2	C12H9NO6        263	  1.61	 4.03	 5.57	 2.22	0
+result/process_HsDHODH/16/000000002.mol2	C12H9NO6        263	  1.61	 4.03	 5.57	 2.22	0
+result/process_HsDHODH/16/000000003.mol2	C10H12NO2Br     258	  1.94	 4.05	 3.24	 2.22	-40
+result/process_HsDHODH/16/000000004.mol2	C10H13NO3       195	  0.73	 4.14	 2.04	 2.22	-40
+result/process_HsDHODH/16/000000005.mol2	C10H13NO3       195	  0.73	 4.20	 2.17	 2.22	-40
+result/process_HsDHODH/16/000000006.mol2	C10H13NO3       195	  0.73	 4.15	 2.09	 2.22	-40
+result/process_HsDHODH/16/000000007.mol2	C13H11NO6       277	  2.16	 4.51	 6.50	 3.58	-20
+result/process_HsDHODH/16/000000008.mol2	C12H8NO6F       281	  1.77	 4.37	 5.26	 3.58	0
+result/process_HsDHODH/16/000000009.mol2	C13H11NO6       277	  2.16	 4.43	 6.02	 3.58	-20
+result/process_HsDHODH/16/000000010.mol2	C13H11NO6       277	  1.75	 4.36	 6.44	 3.58	-20
+result/process_HsDHODH/16/000000011.mol2	C13H11NO7       293	  0.71	 4.64	 6.93	 3.58	-30
+result/process_HsDHODH/16/000000012.mol2	C13H11NO7       293	  0.71	 4.63	 6.87	 3.58	-30
+result/process_HsDHODH/16/000000013.mol2	C12H9NO7        279	  1.20	 4.32	 5.50	 3.58	0
+result/process_HsDHODH/16/000000014.mol2	C13H11NO6       277	  2.16	 4.37	 5.81	 3.58	-20
+result/process_HsDHODH/16/000000015.mol2	C13H11NO6       277	  2.16	 4.33	 6.30	 3.58	-20
+result/process_HsDHODH/16/000000016.mol2	C12H9NO7        279	  1.20	 4.26	 5.87	 3.58	0
+result/process_HsDHODH/16/000000017.mol2	C13H11NO6       277	  1.75	 4.32	 6.07	 3.58	-20
+result/process_HsDHODH/16/000000018.mol2	C13H11NO6       277	  1.75	 4.31	 6.37	 3.58	-20
+result/process_HsDHODH/16/000000019.mol2	C12H9NO7        279	  1.20	 4.25	 5.27	 3.58	0
+result/process_HsDHODH/16/000000020.mol2	C13H11NO6       277	  2.16	 4.25	 6.31	 3.58	-20
+result/process_HsDHODH/16/000000021.mol2	C12H9NO7        279	  1.20	 4.22	 5.03	 3.58	0
+result/process_HsDHODH/16/000000022.mol2	C12H9NO7        279	  1.20	 4.22	 5.74	 3.58	0
+result/process_HsDHODH/16/000000023.mol2	C13H11NO7       293	  0.71	 4.43	 7.08	 3.58	-30
+result/process_HsDHODH/16/000000024.mol2	C12H9NO7        279	  1.20	 4.19	 5.62	 3.58	0
+result/process_HsDHODH/16/000000025.mol2	C13H11NO7       293	  1.52	 4.43	 6.56	 2.22	-50
+result/process_HsDHODH/16/000000026.mol2	C13H11NO6       277	  2.16	 4.21	 6.05	 3.58	-20
+result/process_HsDHODH/16/000000027.mol2	C12H9NO7        279	  1.20	 4.09	 6.05	 3.58	0
+result/process_HsDHODH/16/000000028.mol2	C12H8N2O7       292	  1.15	 4.41	 6.29	 3.85	-30
+result/process_HsDHODH/16/000000029.mol2	C12H9NO7        279	  1.20	 4.06	 5.94	 3.58	0
+result/process_HsDHODH/16/000000030.mol2	C13H12N2O6F     311	  1.21	 4.48	 5.93	 4.94	-60
+result/process_HsDHODH/16/000000031.mol2	C13H12N2O6F     311	  1.21	 4.35	 7.39	 4.94	-60
+result/process_HsDHODH/16/000000032.mol2	C14H13NO7       307	  1.26	 4.85	 7.45	 4.94	-80
+result/process_HsDHODH/16/000000033.mol2	C15H14N2O8      350	  0.84	 4.55	 7.35	 6.45	-200
+result/process_HsDHODH/16/000000034.mol2	C15H14N2O8      350	  0.84	 4.60	 7.57	 6.45	-200
+result/process_HsDHODH/16/000000035.mol2	C13H12N2O6F     311	  1.21	 4.44	 5.75	 4.94	-60
+result/process_HsDHODH/16/000000036.mol2	C13H11NO8       309	  0.31	 4.39	 7.42	 3.58	-60
+result/process_HsDHODH/16/000000037.mol2	C13H11NO8       309	  0.31	 4.34	 7.90	 3.58	-60
+result/process_HsDHODH/16/000000038.mol2	C13H11NO8       309	  0.31	 4.35	 7.86	 3.58	-60
+result/process_HsDHODH/16/000000039.mol2	C12H15N2O2SCl   286	  2.16	 4.30	 3.76	16.80	-140
+result/process_HsDHODH/16/000000040.mol2	C12H15N2O2SCl   286	  2.16	 4.25	 4.85	16.80	-140
+result/process_HsDHODH/16/000000041.mol2	C12H7NO6F2      299	  1.93	 4.22	 5.37	 2.22	-30

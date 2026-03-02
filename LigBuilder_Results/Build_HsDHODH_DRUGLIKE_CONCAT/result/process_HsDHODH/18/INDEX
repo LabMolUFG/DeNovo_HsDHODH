@@ -1,0 +1,117 @@
+#
+# This file is create by LigBuilder/Process
+# It lists the properties of the selected molecules.
+# Author LigBuilder V3 User_Diana
+# Creation time: Wed Feb 25 12:10:59 2026
+#
+# 1nd column: path of the mol2 file
+# 2th column: formula
+# 3th column: molecular weight
+# 4th column: calculated LogP
+# 5th column: binding score (pKd)
+# 6th column: structure score
+# 7th column: synthesize score
+# 8th column: chemical score
+#
+result/process_HsDHODH/18/000000001.mol2	C8H11N2O3F      202	 -0.30	 4.16	 7.32	 2.35	-150
+result/process_HsDHODH/18/000000002.mol2	C19H13N2O3F     336	  3.12	 4.61	 6.09	24.50	-174
+result/process_HsDHODH/18/000000003.mol2	C8H11N2O3F      202	 -0.30	 4.16	 7.32	 2.35	-150
+result/process_HsDHODH/18/000000004.mol2	C11H16N2O3      224	 -0.34	 4.35	 3.40	16.70	-170
+result/process_HsDHODH/18/000000005.mol2	C11H18N2O3      226	  0.07	 4.29	 4.09	15.70	-170
+result/process_HsDHODH/18/000000006.mol2	C8H11N2O3F      202	 -0.30	 4.16	 7.32	 2.35	-150
+result/process_HsDHODH/18/000000007.mol2	C11H18N2O3      226	  0.07	 4.29	 4.09	15.70	-170
+result/process_HsDHODH/18/000000008.mol2	C12H7N2O4F      262	  1.82	 4.07	 4.95	 3.58	-150
+result/process_HsDHODH/18/000000009.mol2	C11H16N8O       276	  1.11	 4.24	 2.08	25.00	-170
+result/process_HsDHODH/18/000000010.mol2	C11H16N8O       276	  1.11	 4.17	 1.44	25.00	-170
+result/process_HsDHODH/18/000000011.mol2	C11H16N8O       276	  1.11	 4.29	 1.61	25.00	-170
+result/process_HsDHODH/18/000000012.mol2	C11H16N8O       276	  1.11	 4.38	 0.98	25.00	-190
+result/process_HsDHODH/18/000000013.mol2	C10H11N6O2Br    327	  2.46	 4.16	 4.11	24.50	-150
+result/process_HsDHODH/18/000000014.mol2	C10H11N6O2Br    327	  2.46	 4.32	 4.26	24.50	-150
+result/process_HsDHODH/18/000000015.mol2	C9H8N6OBr2      376	  3.76	 4.00	 3.94	24.40	0
+result/process_HsDHODH/18/000000016.mol2	C8H11N2O3F      202	 -0.30	 4.16	 7.32	 2.35	-150
+result/process_HsDHODH/18/000000017.mol2	C12H15N5O3      277	  0.07	 4.01	 3.05	 5.09	-170
+result/process_HsDHODH/18/000000018.mol2	C12H15N5O3      277	  0.07	 4.05	 3.01	 5.09	-170
+result/process_HsDHODH/18/000000019.mol2	C13H14N6O2      286	 -0.08	 4.13	 3.56	 3.58	-190
+result/process_HsDHODH/18/000000020.mol2	C13H14N6O2      286	 -0.08	 4.10	 3.50	 3.58	-190
+result/process_HsDHODH/18/000000021.mol2	C13H14N6O2      286	 -0.08	 4.05	 3.32	 3.58	-190
+result/process_HsDHODH/18/000000022.mol2	C12H7N2O4F      262	  1.82	 4.07	 4.95	 3.58	-150
+result/process_HsDHODH/18/000000023.mol2	C11H15N7O2      277	  0.99	 4.20	 6.93	24.80	-170
+result/process_HsDHODH/18/000000024.mol2	C10H10N6OClBr   345	  4.05	 4.26	 7.18	25.00	-175
+result/process_HsDHODH/18/000000025.mol2	C11H14N6O       246	  3.22	 4.00	 6.48	22.20	-80
+result/process_HsDHODH/18/000000026.mol2	C14H9N5O4       311	  0.91	 4.47	 5.59	 3.58	-190
+result/process_HsDHODH/18/000000027.mol2	C14H9N5O4       311	  0.91	 4.49	 6.47	 3.58	-190
+result/process_HsDHODH/18/000000028.mol2	C14H10N4O5      314	  0.20	 4.27	 6.93	 3.58	-190
+result/process_HsDHODH/18/000000029.mol2	C9H8N6OCl2      286	  3.09	 4.00	 5.24	24.40	0
+result/process_HsDHODH/18/000000030.mol2	C9H8N6OCl2      286	  3.09	 4.07	 5.38	24.40	0
+result/process_HsDHODH/18/000000031.mol2	C15H10N4O4      310	  0.94	 4.51	 5.81	 3.58	-190
+result/process_HsDHODH/18/000000032.mol2	C15H10N4O4      310	  0.94	 4.52	 6.47	 3.58	-190
+result/process_HsDHODH/18/000000033.mol2	C10H11N6OCl     266	  3.10	 4.04	 4.71	23.30	-20
+result/process_HsDHODH/18/000000034.mol2	C10H11N6OCl     266	  3.10	 4.08	 5.57	23.30	-20
+result/process_HsDHODH/18/000000035.mol2	C10H11N6OCl     266	  3.10	 4.04	 4.20	23.30	-20
+result/process_HsDHODH/18/000000036.mol2	C10H11N6OCl     266	  3.10	 4.01	 5.47	23.30	-20
+result/process_HsDHODH/18/000000037.mol2	C8H11N2O3F      202	 -0.30	 4.16	 7.32	 2.35	-150
+result/process_HsDHODH/18/000000038.mol2	C14H16N6O4      332	 -0.33	 4.67	 4.56	 4.94	-190
+result/process_HsDHODH/18/000000039.mol2	C14H16N6O4      332	 -0.33	 4.81	 4.46	 4.94	-190
+result/process_HsDHODH/18/000000040.mol2	C14H16N6O4      332	 -0.33	 5.25	 4.74	 4.94	-190
+result/process_HsDHODH/18/000000041.mol2	C14H16N6O4      332	 -0.33	 5.25	 4.56	 4.94	-190
+result/process_HsDHODH/18/000000042.mol2	C14H16N6O4      332	 -0.33	 4.84	 4.59	 4.94	-190
+result/process_HsDHODH/18/000000043.mol2	C14H16N6O4      332	 -0.33	 4.81	 4.27	 4.94	-190
+result/process_HsDHODH/18/000000044.mol2	C14H16N6O4      332	 -0.33	 4.64	 3.73	 4.94	-190
+result/process_HsDHODH/18/000000045.mol2	C13H17N6O2Br    369	  0.77	 4.40	 5.64	 6.77	-150
+result/process_HsDHODH/18/000000046.mol2	C11H9N8O2F      304	 -0.17	 4.03	 2.82	 3.58	-190
+result/process_HsDHODH/18/000000047.mol2	C14H16N5O3Br    382	  0.49	 4.75	 6.14	 5.23	-170
+result/process_HsDHODH/18/000000048.mol2	C14H16N5O3Br    382	  0.49	 5.39	 6.63	 5.23	-170
+result/process_HsDHODH/18/000000049.mol2	C14H16N5O3Br    382	  0.49	 4.90	 6.14	 5.23	-170
+result/process_HsDHODH/18/000000050.mol2	C14H19N6OBr     367	  0.57	 4.24	 6.40	 6.45	-170
+result/process_HsDHODH/18/000000051.mol2	C14H19N6OBr     367	  0.57	 4.24	 5.70	 6.45	-170
+result/process_HsDHODH/18/000000052.mol2	C14H19N6OBr     367	  0.57	 4.36	 5.73	 6.45	-170
+result/process_HsDHODH/18/000000053.mol2	C11H14N6O       246	  3.22	 4.00	 6.48	22.20	-80
+result/process_HsDHODH/18/000000054.mol2	C10H11N6OCl     266	  3.10	 4.08	 5.57	23.30	-20
+result/process_HsDHODH/18/000000055.mol2	C10H11N6OCl     266	  3.10	 4.01	 5.47	23.30	-20
+result/process_HsDHODH/18/000000056.mol2	C9H8N6OCl2      286	  3.09	 4.07	 5.38	24.40	0
+result/process_HsDHODH/18/000000057.mol2	C10H11N6OCl     266	  3.10	 4.04	 4.71	23.30	-20
+result/process_HsDHODH/18/000000058.mol2	C12H7N2O4F      262	  1.82	 4.07	 4.95	 3.58	-150
+result/process_HsDHODH/18/000000059.mol2	C9H8N6OCl2      286	  3.09	 4.00	 5.24	24.40	0
+result/process_HsDHODH/18/000000060.mol2	C10H11N6OCl     266	  3.10	 4.04	 4.20	23.30	-20
+result/process_HsDHODH/18/000000061.mol2	C15H10N4O4      310	  0.94	 4.52	 6.47	 3.58	-190
+result/process_HsDHODH/18/000000062.mol2	C13H9N2O4F      276	  1.96	 4.18	 5.20	 3.58	-170
+result/process_HsDHODH/18/000000063.mol2	C13H9N2O4F      276	  1.96	 4.18	 5.20	 3.58	-170
+result/process_HsDHODH/18/000000064.mol2	C13H9N2O4F      276	  1.96	 4.18	 5.20	 3.58	-170
+result/process_HsDHODH/18/000000065.mol2	C13H9N4O4Cl     320	  0.17	 4.09	 6.13	 3.58	-150
+result/process_HsDHODH/18/000000066.mol2	C13H9N4O4Cl     320	  0.17	 4.04	 6.60	 3.58	-150
+result/process_HsDHODH/18/000000067.mol2	C10H13N7OCl     282	  2.14	 4.08	 7.35	24.70	0
+result/process_HsDHODH/18/000000068.mol2	C10H13N7OCl     282	  2.14	 4.08	 7.85	24.70	0
+result/process_HsDHODH/18/000000069.mol2	C10H13N7OCl     282	  2.14	 4.11	 7.75	24.70	0
+result/process_HsDHODH/18/000000070.mol2	C10H14N7O       248	  1.66	 4.00	 7.52	23.00	-20
+result/process_HsDHODH/18/000000071.mol2	C13H10N3O4F     291	  0.86	 4.06	 5.41	 3.58	-150
+result/process_HsDHODH/18/000000072.mol2	C13H10N3O4F     291	  0.86	 4.11	 5.60	 3.58	-150
+result/process_HsDHODH/18/000000073.mol2	C13H10N3O4F     291	  0.86	 4.13	 5.80	 3.58	-150
+result/process_HsDHODH/18/000000074.mol2	C13H10N3O4F     291	  0.86	 4.13	 5.28	 3.58	-150
+result/process_HsDHODH/18/000000075.mol2	C11H15N7O2      277	  1.71	 4.13	 4.01	24.80	-20
+result/process_HsDHODH/18/000000076.mol2	C11H15N7O2      277	  1.71	 4.06	 4.50	24.80	-20
+result/process_HsDHODH/18/000000077.mol2	C13H10N4O4      286	 -0.07	 4.02	 6.08	 3.58	-170
+result/process_HsDHODH/18/000000078.mol2	C13H10N4O4      286	 -0.07	 4.02	 6.17	 3.58	-170
+result/process_HsDHODH/18/000000079.mol2	C13H10N4O4      286	 -0.07	 4.01	 5.75	 3.58	-170
+result/process_HsDHODH/18/000000080.mol2	C15H22N6O       302	  4.35	 4.08	 4.45	24.60	-100
+result/process_HsDHODH/18/000000081.mol2	C12H7N4O4F      290	 -0.22	 4.01	 5.44	 3.58	-150
+result/process_HsDHODH/18/000000082.mol2	C14H12N4O4      300	  0.19	 4.10	 6.17	 3.58	-170
+result/process_HsDHODH/18/000000083.mol2	C14H12N4O4      300	  0.19	 4.10	 6.27	 3.58	-170
+result/process_HsDHODH/18/000000084.mol2	C14H12N4O4      300	  0.19	 4.06	 6.41	 3.58	-170
+result/process_HsDHODH/18/000000085.mol2	C14H12N4O4      300	  0.19	 4.06	 5.92	 3.58	-170
+result/process_HsDHODH/18/000000086.mol2	C14H12N4O4      300	  0.19	 4.08	 6.70	 3.58	-170
+result/process_HsDHODH/18/000000087.mol2	C13H8N2O4F2     294	  2.06	 4.28	 5.44	 3.58	-150
+result/process_HsDHODH/18/000000088.mol2	C13H8N2O4F2     294	  2.06	 4.29	 5.32	 3.58	-150
+result/process_HsDHODH/18/000000089.mol2	C13H8N2O4F2     294	  2.06	 4.16	 5.58	 3.58	-150
+result/process_HsDHODH/18/000000090.mol2	C13H8N2O4F2     294	  2.06	 4.31	 5.42	 3.58	-150
+result/process_HsDHODH/18/000000091.mol2	C13H8N2O4F2     294	  2.06	 4.32	 5.60	 3.58	-150
+result/process_HsDHODH/18/000000092.mol2	C13H8N2O4F2     294	  2.06	 4.29	 5.29	 3.58	-150
+result/process_HsDHODH/18/000000093.mol2	C13H8N2O4F2     294	  2.06	 4.23	 5.67	 3.58	-150
+result/process_HsDHODH/18/000000094.mol2	C10H10N6OClBr   345	  3.78	 4.15	 5.16	25.00	0
+result/process_HsDHODH/18/000000095.mol2	C10H10N6OClBr   345	  3.78	 4.01	 5.60	25.00	0
+result/process_HsDHODH/18/000000096.mol2	C13H8N2O4FCl    310	  2.20	 4.39	 5.63	 3.58	-150
+result/process_HsDHODH/18/000000097.mol2	C13H8N2O4FCl    310	  2.20	 4.26	 6.11	 3.58	-150
+result/process_HsDHODH/18/000000098.mol2	C12H17N7O       275	  2.57	 4.03	 5.59	24.20	-80
+result/process_HsDHODH/18/000000099.mol2	C12H17N7O       275	  2.57	 4.09	 5.78	24.20	-80
+result/process_HsDHODH/18/000000100.mol2	C12H13N2O4I     376	  1.01	 4.02	 2.33	 3.33	-170
+result/process_HsDHODH/18/000000101.mol2	C11H9N3O2       215	  0.85	 4.07	 1.30	11.80	-160
+result/process_HsDHODH/18/000000102.mol2	C12H11N2O3Cl    266	  1.75	 4.17	 0.02	18.70	-20

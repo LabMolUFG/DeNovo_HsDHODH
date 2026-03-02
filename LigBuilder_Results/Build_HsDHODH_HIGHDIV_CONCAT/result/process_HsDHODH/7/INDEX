@@ -1,0 +1,52 @@
+#
+# This file is create by LigBuilder/Process
+# It lists the properties of the selected molecules.
+# Author LigBuilder V3 User_Diana
+# Creation time: Wed Feb 25 22:07:56 2026
+#
+# 1nd column: path of the mol2 file
+# 2th column: formula
+# 3th column: molecular weight
+# 4th column: calculated LogP
+# 5th column: binding score (pKd)
+# 6th column: structure score
+# 7th column: synthesize score
+# 8th column: chemical score
+#
+result/process_HsDHODH/7/000000001.mol2	C15H18N4O2      286	  0.69	 4.34	 5.73	20.30	-160
+result/process_HsDHODH/7/000000002.mol2	C8H6N4OClI      336	  2.73	 4.13	 4.52	17.20	-120
+result/process_HsDHODH/7/000000003.mol2	C10H9N4OI       328	  2.62	 4.10	 5.07	17.70	-120
+result/process_HsDHODH/7/000000004.mol2	C10H9N4OI       328	  2.62	 4.09	 5.70	17.70	-120
+result/process_HsDHODH/7/000000005.mol2	C13H13N2OCl     248	  1.77	 4.10	 0.90	15.50	-120
+result/process_HsDHODH/7/000000006.mol2	C15H13N3O3      283	  0.34	 4.32	 2.84	20.90	-120
+result/process_HsDHODH/7/000000007.mol2	C13H17N2OCl     252	  0.96	 4.05	 4.00	 3.58	-150
+result/process_HsDHODH/7/000000008.mol2	C13H17N2OCl     252	  0.96	 4.13	 5.24	 3.58	-150
+result/process_HsDHODH/7/000000009.mol2	C16H15N3OS      297	  0.24	 4.30	 6.32	17.70	-40
+result/process_HsDHODH/7/000000010.mol2	C11H17N4OCl     256	  0.72	 4.37	 4.52	 3.58	-150
+result/process_HsDHODH/7/000000011.mol2	C11H17N4OCl     256	  0.72	 4.27	 5.00	 3.58	-150
+result/process_HsDHODH/7/000000012.mol2	C19H15NO3ClI    467	  3.85	 4.62	 5.44	21.00	-140
+result/process_HsDHODH/7/000000013.mol2	C19H15NO3ClI    467	  3.85	 4.64	 4.51	21.00	-140
+result/process_HsDHODH/7/000000014.mol2	C19H15NO3ClI    467	  3.85	 4.53	 5.25	21.00	-140
+result/process_HsDHODH/7/000000015.mol2	C19H15NO3ClI    467	  3.85	 4.59	 4.98	21.00	-140
+result/process_HsDHODH/7/000000016.mol2	C11H17N4OCl     256	  0.72	 4.27	 5.00	 3.58	-150
+result/process_HsDHODH/7/000000017.mol2	C13H17N2OCl     252	  0.96	 4.13	 5.24	 3.58	-150
+result/process_HsDHODH/7/000000018.mol2	C11H17N4OCl     256	  0.72	 4.37	 4.52	 3.58	-150
+result/process_HsDHODH/7/000000019.mol2	C14H13N5O       267	  0.84	 4.24	 3.02	22.20	-120
+result/process_HsDHODH/7/000000020.mol2	C14H13N5O2S     315	  0.74	 4.84	 2.58	24.40	-120
+result/process_HsDHODH/7/000000021.mol2	C14H14N2OS      258	  1.54	 4.24	 5.09	 3.58	-150
+result/process_HsDHODH/7/000000022.mol2	C14H14N2OS      258	  1.54	 4.15	 4.80	 3.58	-150
+result/process_HsDHODH/7/000000023.mol2	C14H14N2OS      258	  1.54	 4.04	 4.78	 3.58	-150
+result/process_HsDHODH/7/000000024.mol2	C14H14N2OS      258	  1.54	 4.00	 5.05	 3.58	-150
+result/process_HsDHODH/7/000000025.mol2	C13H18N2O2S     266	  0.09	 4.03	 5.12	 3.58	-170
+result/process_HsDHODH/7/000000026.mol2	C14H13N5O3      299	  0.86	 4.56	 2.44	24.00	-120
+result/process_HsDHODH/7/000000027.mol2	C10H9NO2ClBr    290	  1.73	 4.20	 1.74	 3.58	-150
+result/process_HsDHODH/7/000000028.mol2	C10H9NO2ClBr    290	  1.73	 4.11	 1.31	 3.58	-150
+result/process_HsDHODH/7/000000029.mol2	C10H13N4O2S     253	 -0.32	 4.07	 4.43	18.70	-140
+result/process_HsDHODH/7/000000030.mol2	C10H13N4O2S     253	 -0.32	 4.01	 3.16	18.70	-140
+result/process_HsDHODH/7/000000031.mol2	C12H9N2O2SCl    280	  1.00	 4.11	 1.24	 5.09	-190
+result/process_HsDHODH/7/000000032.mol2	C17H19NO2S      301	  2.64	 4.22	 2.49	 5.09	0
+result/process_HsDHODH/7/000000033.mol2	C13H17N2O2Cl    268	  0.56	 4.14	 5.88	 5.09	-150
+result/process_HsDHODH/7/000000034.mol2	C13H17N2O2Cl    268	  0.56	 4.13	 5.78	 5.09	-150
+result/process_HsDHODH/7/000000035.mol2	C13H17N2O2Cl    268	  0.56	 4.14	 5.27	 5.09	-150
+result/process_HsDHODH/7/000000036.mol2	C13H17N2O2Cl    268	  0.56	 4.11	 5.16	 5.09	-150
+result/process_HsDHODH/7/000000037.mol2	C14H15N3O5      305	  0.41	 4.02	 6.68	22.00	-150

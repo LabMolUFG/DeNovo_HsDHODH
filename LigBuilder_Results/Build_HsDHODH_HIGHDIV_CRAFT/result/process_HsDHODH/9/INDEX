@@ -1,0 +1,26 @@
+#
+# This file is create by LigBuilder/Process
+# It lists the properties of the selected molecules.
+# Author LigBuilder V3 User_Diana
+# Creation time: Sat Feb 28 06:44:44 2026
+#
+# 1nd column: path of the mol2 file
+# 2th column: formula
+# 3th column: molecular weight
+# 4th column: calculated LogP
+# 5th column: binding score (pKd)
+# 6th column: structure score
+# 7th column: synthesize score
+# 8th column: chemical score
+#
+result/process_HsDHODH/9/000000001.mol2	C8H8N2O3S2      244	  2.16	 4.16	 1.71	17.40	-40
+result/process_HsDHODH/9/000000002.mol2	C16H16NO2Cl     289	  3.20	 4.16	 5.97	 4.94	-150
+result/process_HsDHODH/9/000000003.mol2	C16H16NO2Cl     289	  3.20	 4.21	 5.52	 4.94	-150
+result/process_HsDHODH/9/000000004.mol2	C16H16NO2Cl     289	  3.20	 4.81	 5.60	 4.94	-150
+result/process_HsDHODH/9/000000005.mol2	C16H16NO2Cl     289	  3.20	 4.08	 5.42	 4.94	-150
+result/process_HsDHODH/9/000000006.mol2	C7H9N3O3        183	 -0.19	 4.11	 1.93	 1.23	0
+result/process_HsDHODH/9/000000007.mol2	C13H14N2O       214	  1.86	 4.04	 1.11	 9.80	-200
+result/process_HsDHODH/9/000000008.mol2	C12H12N3O2SCl   297	  2.92	 4.02	 4.91	 4.94	-150
+result/process_HsDHODH/9/000000009.mol2	C12H12N3O2SCl   297	  2.92	 4.09	 4.57	 4.94	-150
+result/process_HsDHODH/9/000000010.mol2	C10H14N6O2F2    288	  0.59	 4.04	 3.78	23.10	-150
+result/process_HsDHODH/9/000000011.mol2	C10H14N6O2F2    288	  0.59	 4.09	 3.41	23.10	-150

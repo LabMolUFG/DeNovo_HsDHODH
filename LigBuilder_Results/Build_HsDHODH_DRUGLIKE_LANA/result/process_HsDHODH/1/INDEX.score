@@ -1,0 +1,2 @@
+result/process_HsDHODH/1/000000001.mol2 Protein_1 Est 2.74 AEst 0.14 Score 3.76 AdjScore 4.10 AveScore 0.19 Stable 0.73 LogP 1.29 HB 0.00 MT 0.00 HSPC 2.69 VDW -232.01 BUMP 1.14 HM 3.43 RT 5.00 HM/HB 1.23 DeltaHM 1.14 Chemical -150.00 Match 12.28 Heavy    20 Weight   277 InnerVDW -1.48
+result/process_HsDHODH/1/000000002.mol2 Protein_1 Est 2.89 AEst 0.12 Score 4.44 AdjScore 4.76 AveScore 0.18 Stable 0.65 LogP 0.51 HB 0.00 MT 0.00 HSPC 3.86 VDW -277.16 BUMP 0.00 HM 3.09 RT 6.00 HM/HB 0.78 DeltaHM -0.04 Chemical -190.00 Match 8.58 Heavy    24 Weight   330 InnerVDW -4.73

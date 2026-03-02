@@ -1,0 +1,34 @@
+#
+# This file is create by LigBuilder/Process
+# It lists the properties of the selected molecules.
+# Author LigBuilder V3 User_Diana
+# Creation time: Wed Feb 25 12:11:04 2026
+#
+# 1nd column: path of the mol2 file
+# 2th column: formula
+# 3th column: molecular weight
+# 4th column: calculated LogP
+# 5th column: binding score (pKd)
+# 6th column: structure score
+# 7th column: synthesize score
+# 8th column: chemical score
+#
+result/process_HsDHODH/14/000000001.mol2	C13H19N5O2      277	  0.80	 4.18	 3.57	23.50	0
+result/process_HsDHODH/14/000000002.mol2	C13H19N5O2      277	  0.80	 4.36	 4.41	23.50	0
+result/process_HsDHODH/14/000000003.mol2	C13H19N5O2      277	  0.80	 4.18	 5.51	23.50	0
+result/process_HsDHODH/14/000000004.mol2	C16H17N5O       295	  2.20	 4.01	 6.68	 3.58	-150
+result/process_HsDHODH/14/000000005.mol2	C16H17N5O       295	  2.20	 4.01	 6.68	 3.58	-150
+result/process_HsDHODH/14/000000006.mol2	C13H19N5O2      277	  0.80	 4.18	 5.51	23.50	0
+result/process_HsDHODH/14/000000007.mol2	C13H19N5O2      277	  0.80	 4.36	 4.41	23.50	0
+result/process_HsDHODH/14/000000008.mol2	C13H19N5O2      277	  0.80	 4.18	 3.57	23.50	0
+result/process_HsDHODH/14/000000009.mol2	C16H17N5O       295	  2.20	 4.01	 6.68	 3.58	-150
+result/process_HsDHODH/14/000000010.mol2	C13H19N5O2      277	  0.80	 4.18	 5.51	23.50	0
+result/process_HsDHODH/14/000000011.mol2	C13H19N5O2      277	  0.80	 4.36	 4.41	23.50	0
+result/process_HsDHODH/14/000000012.mol2	C13H19N5O2      277	  0.80	 4.18	 3.57	23.50	0
+result/process_HsDHODH/14/000000013.mol2	C12H16N4O2F     267	 -0.27	 4.05	 1.68	 4.81	-60
+result/process_HsDHODH/14/000000014.mol2	C16H25N4O3      321	  0.05	 4.33	 2.41	23.50	-80
+result/process_HsDHODH/14/000000015.mol2	C16H25N4O3      321	  0.05	 4.35	 2.35	23.50	-80
+result/process_HsDHODH/14/000000016.mol2	C16H25N4O3      321	  0.05	 4.33	 2.69	23.50	-80
+result/process_HsDHODH/14/000000017.mol2	C13H18N4O2Cl    297	  0.23	 4.30	 2.27	 6.32	-60
+result/process_HsDHODH/14/000000018.mol2	C16H25N4O3      321	  0.05	 4.25	 3.49	23.50	-80
+result/process_HsDHODH/14/000000019.mol2	C16H25N4O3      321	  0.05	 4.33	 3.47	23.50	-80

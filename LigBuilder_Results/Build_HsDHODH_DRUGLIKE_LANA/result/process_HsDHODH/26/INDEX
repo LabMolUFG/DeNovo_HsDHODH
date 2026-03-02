@@ -1,0 +1,25 @@
+#
+# This file is create by LigBuilder/Process
+# It lists the properties of the selected molecules.
+# Author LigBuilder V3 User_Diana
+# Creation time: Tue Feb 24 08:12:26 2026
+#
+# 1nd column: path of the mol2 file
+# 2th column: formula
+# 3th column: molecular weight
+# 4th column: calculated LogP
+# 5th column: binding score (pKd)
+# 6th column: structure score
+# 7th column: synthesize score
+# 8th column: chemical score
+#
+result/process_HsDHODH/26/000000001.mol2	C15H19N5O2      301	 -0.39	 4.00	 4.84	22.60	-170
+result/process_HsDHODH/26/000000002.mol2	C14H15NO2Br     309	  2.64	 4.22	 5.88	 3.85	-150
+result/process_HsDHODH/26/000000003.mol2	C13H9N3O2Br     319	  2.09	 4.21	 6.61	22.30	0
+result/process_HsDHODH/26/000000004.mol2	C15H11NO3Br     333	  2.00	 4.30	 5.17	20.70	-170
+result/process_HsDHODH/26/000000005.mol2	C15H11NO3Br     333	  2.00	 4.37	 4.08	20.70	-170
+result/process_HsDHODH/26/000000006.mol2	C15H11NO3Br     333	  2.00	 4.40	 4.55	20.70	-170
+result/process_HsDHODH/26/000000007.mol2	C14H11N3O2Br    333	  2.00	 4.40	 5.45	21.40	-170
+result/process_HsDHODH/26/000000008.mol2	C14H11N3O2Br    333	  2.00	 4.46	 3.74	21.40	-170
+result/process_HsDHODH/26/000000009.mol2	C14H11N3O2Br    333	  2.00	 4.59	 3.99	21.40	-170
+result/process_HsDHODH/26/000000010.mol2	C14H11N3O2Br    333	  2.00	 4.58	 4.57	21.40	-170

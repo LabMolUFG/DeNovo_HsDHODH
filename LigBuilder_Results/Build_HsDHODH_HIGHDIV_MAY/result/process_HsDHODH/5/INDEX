@@ -1,0 +1,21 @@
+#
+# This file is create by LigBuilder/Process
+# It lists the properties of the selected molecules.
+# Author LigBuilder V3 User_Diana
+# Creation time: Sun Mar  1 05:01:10 2026
+#
+# 1nd column: path of the mol2 file
+# 2th column: formula
+# 3th column: molecular weight
+# 4th column: calculated LogP
+# 5th column: binding score (pKd)
+# 6th column: structure score
+# 7th column: synthesize score
+# 8th column: chemical score
+#
+result/process_HsDHODH/5/000000001.mol2	C13H13N5Cl2     309	  2.42	 4.11	 5.35	 3.58	-150
+result/process_HsDHODH/5/000000002.mol2	C15H19N3O3      289	  1.65	 4.43	 5.02	18.70	-60
+result/process_HsDHODH/5/000000003.mol2	C12H11N4O4I     402	  1.73	 4.07	 4.62	 3.72	-72
+result/process_HsDHODH/5/000000004.mol2	C13H17N3O2S     279	  2.11	 4.12	 5.71	 3.58	-40
+result/process_HsDHODH/5/000000005.mol2	C13H12N5O2Br    350	  2.24	 4.01	 6.54	 2.35	-190
+result/process_HsDHODH/5/000000006.mol2	C13H18N6O3      306	  2.02	 4.01	 3.72	22.10	-84

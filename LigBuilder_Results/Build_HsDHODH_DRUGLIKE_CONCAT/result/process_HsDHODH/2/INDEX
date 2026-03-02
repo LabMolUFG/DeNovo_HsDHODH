@@ -1,0 +1,34 @@
+#
+# This file is create by LigBuilder/Process
+# It lists the properties of the selected molecules.
+# Author LigBuilder V3 User_Diana
+# Creation time: Wed Feb 25 12:11:08 2026
+#
+# 1nd column: path of the mol2 file
+# 2th column: formula
+# 3th column: molecular weight
+# 4th column: calculated LogP
+# 5th column: binding score (pKd)
+# 6th column: structure score
+# 7th column: synthesize score
+# 8th column: chemical score
+#
+result/process_HsDHODH/2/000000001.mol2	C18H23N3O4      345	  0.18	 4.51	 5.05	 5.08	-150
+result/process_HsDHODH/2/000000002.mol2	C17H19N2O5I     458	  1.89	 5.07	 3.67	23.70	-170
+result/process_HsDHODH/2/000000003.mol2	C17H19N2O5I     458	  1.89	 4.60	 3.66	23.70	-150
+result/process_HsDHODH/2/000000004.mol2	C17H20NO5I      445	  1.95	 4.59	-0.23	 5.24	-170
+result/process_HsDHODH/2/000000005.mol2	C18H23N3O4      345	  0.18	 4.51	 5.05	 5.08	-150
+result/process_HsDHODH/2/000000006.mol2	C18H23N3O4      345	  0.18	 4.51	 5.06	 5.08	-150
+result/process_HsDHODH/2/000000007.mol2	C18H23N3O4      345	  0.18	 4.55	 5.48	 5.08	-150
+result/process_HsDHODH/2/000000008.mol2	C18H23N3O4      345	  0.18	 4.51	 5.06	 5.08	-150
+result/process_HsDHODH/2/000000009.mol2	C18H23N3O4      345	  0.18	 4.53	 5.22	 5.08	-150
+result/process_HsDHODH/2/000000010.mol2	C16H20N6O4      360	  1.04	 4.95	 4.41	 6.45	-150
+result/process_HsDHODH/2/000000011.mol2	C17H19N2O5I     458	  2.28	 4.50	 4.92	23.70	-170
+result/process_HsDHODH/2/000000012.mol2	C17H19N2O6I     474	  1.49	 5.12	 4.74	24.90	-170
+result/process_HsDHODH/2/000000013.mol2	C17H19N2O6I     474	  1.49	 5.05	 4.59	24.90	-170
+result/process_HsDHODH/2/000000014.mol2	C17H19N2O6I     474	  1.49	 5.05	 4.59	24.90	-170
+result/process_HsDHODH/2/000000015.mol2	C17H19N2O6I     474	  1.49	 5.05	 4.59	24.90	-170
+result/process_HsDHODH/2/000000016.mol2	C18H21N2O5I     472	  2.12	 5.20	 4.96	24.30	-190
+result/process_HsDHODH/2/000000017.mol2	C18H21N2O5I     472	  2.12	 5.20	 4.96	24.30	-190
+result/process_HsDHODH/2/000000018.mol2	C18H21N2O5I     472	  2.12	 5.20	 4.96	24.30	-190
+result/process_HsDHODH/2/000000019.mol2	C18H21N2O5I     472	  2.12	 5.21	 5.23	24.30	-170

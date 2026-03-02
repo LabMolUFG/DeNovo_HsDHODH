@@ -1,0 +1,27 @@
+# Name:          Smol
+# Creation time: Sun Mar  1 05:11:41 2026
+
+
+@<TRIPOS>MOLECULE
+Smol:result/synthesize_HsDHODH/281/DATABASE/R000000017/R000000017.mol2
+    7     7     1     1     1
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 A1          0.4837    0.8018    0.4503 C.ar       1 <1>        0.000
+      2 C4          1.0923    1.1032    1.0694 C.ar       1 <1>        0.000
+      3 C4          1.1727    1.2053    1.5651 C.ar       1 <1>        0.000
+      4 C4          1.9084    2.4434    1.8506 C.ar       1 <1>        0.000
+      5 C4          2.2946    2.9818    2.1756 C.ar       1 <1>        0.000
+      6 C4          3.1861    3.3634    2.7771 C.ar       1 <1>        0.000
+      7 X5          3.7787    3.6375    3.8688 H          1 <1>        0.000
+@<TRIPOS>BOND
+     1    6    1 ar 
+     2    1    2 ar 
+     3    2    3 ar 
+     4    3    4 ar 
+     5    4    5 ar 
+     6    5    6 ar 
+     7    1    7 1  

@@ -1,0 +1,18 @@
+# Name:          Smol
+# Creation time: Sun Mar  1 05:06:10 2026
+
+
+@<TRIPOS>MOLECULE
+Smol:result/synthesize_HsDHODH/80/DATABASE/R000000025/R000000025.mol2
+    3     2     1     1     1
+SMALL
+USER_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 A1          0.4525    0.2024    0.6809 O.3        1 <1>        0.000
+      2 D1          0.9925    0.6153    0.6899 H          1 <1>        0.000
+      3 X7          1.0181    1.0819    1.6662 H          1 <1>        0.000
+@<TRIPOS>BOND
+     1    1    2 1  
+     2    1    3 1  

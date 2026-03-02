@@ -1,0 +1,30 @@
+#
+# This file is create by LigBuilder/Process
+# It lists the properties of the selected molecules.
+# Author LigBuilder V3 User_Diana
+# Creation time: Tue Feb 24 08:12:02 2026
+#
+# 1nd column: path of the mol2 file
+# 2th column: formula
+# 3th column: molecular weight
+# 4th column: calculated LogP
+# 5th column: binding score (pKd)
+# 6th column: structure score
+# 7th column: synthesize score
+# 8th column: chemical score
+#
+result/process_HsDHODH/5/000000001.mol2	C12H11N4OCl     262	  0.50	 4.04	 2.43	 2.22	-150
+result/process_HsDHODH/5/000000002.mol2	C12H11N4OCl     262	  0.50	 4.01	 2.02	 2.22	-150
+result/process_HsDHODH/5/000000003.mol2	C11H10N3O2Cl    251	  2.46	 4.24	 2.52	 2.22	-150
+result/process_HsDHODH/5/000000004.mol2	C13H14NO2Cl     251	  1.55	 4.11	 2.58	 2.22	-150
+result/process_HsDHODH/5/000000005.mol2	C15H14N4O3      298	  2.38	 4.43	 5.61	24.60	-160
+result/process_HsDHODH/5/000000006.mol2	C11H10N3O2Cl    251	  2.46	 4.24	 2.52	 2.22	-150
+result/process_HsDHODH/5/000000007.mol2	C13H14NO2Cl     251	  1.55	 4.11	 2.58	 2.22	-150
+result/process_HsDHODH/5/000000008.mol2	C12H12N3O2Cl    265	  2.70	 4.01	 1.19	 2.22	-170
+result/process_HsDHODH/5/000000009.mol2	C12H12N3O2Cl    265	  2.70	 4.03	 1.30	 2.22	-170
+result/process_HsDHODH/5/000000010.mol2	C16H16NO3Cl     305	  1.50	 4.38	 1.37	 4.81	-170
+result/process_HsDHODH/5/000000011.mol2	C16H16NO3Cl     305	  1.50	 4.32	 0.83	 4.81	-170
+result/process_HsDHODH/5/000000012.mol2	C13H11N2O5Cl    310	  0.46	 4.16	 3.02	 3.84	-150
+result/process_HsDHODH/5/000000013.mol2	C15H15NOClBr    340	  2.88	 4.03	 1.90	 2.35	-150
+result/process_HsDHODH/5/000000014.mol2	C14H17N2OCl     264	  1.87	 4.16	 3.87	 2.22	-170
+result/process_HsDHODH/5/000000015.mol2	C15H17O4Cl      296	  2.11	 4.09	 1.82	 3.58	-170

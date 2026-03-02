@@ -1,0 +1,37 @@
+#
+# This file is create by LigBuilder/Process
+# It lists the properties of the selected molecules.
+# Author LigBuilder V3 User_Diana
+# Creation time: Sat Feb 28 19:02:54 2026
+#
+# 1nd column: path of the mol2 file
+# 2th column: formula
+# 3th column: molecular weight
+# 4th column: calculated LogP
+# 5th column: binding score (pKd)
+# 6th column: structure score
+# 7th column: synthesize score
+# 8th column: chemical score
+#
+result/process_HsDHODH/25/000000001.mol2	C17H17N3OS      311	  1.89	 4.25	 2.00	22.50	-120
+result/process_HsDHODH/25/000000002.mol2	C17H17N3OS      311	  1.89	 4.22	 1.74	22.50	-120
+result/process_HsDHODH/25/000000003.mol2	C17H17N3OS      311	  1.89	 4.26	 2.33	22.50	-120
+result/process_HsDHODH/25/000000004.mol2	C17H17N3OS      311	  1.89	 4.16	 2.66	22.50	-120
+result/process_HsDHODH/25/000000005.mol2	C17H17N3OS      311	  1.89	 4.17	 2.75	22.50	-100
+result/process_HsDHODH/25/000000006.mol2	C17H17N3OS      311	  1.89	 4.26	 2.09	22.50	-120
+result/process_HsDHODH/25/000000007.mol2	C17H17N3OS      311	  1.89	 4.16	 1.88	22.50	-100
+result/process_HsDHODH/25/000000008.mol2	C17H17N3OS      311	  1.89	 4.19	 1.74	22.50	-100
+result/process_HsDHODH/25/000000009.mol2	C17H17N3OS      311	  1.89	 4.20	 2.95	22.50	-120
+result/process_HsDHODH/25/000000010.mol2	C17H17N3OS      311	  1.89	 4.25	 2.60	22.50	-100
+result/process_HsDHODH/25/000000011.mol2	C17H17N3OS      311	  1.56	 4.03	 2.76	22.50	-120
+result/process_HsDHODH/25/000000012.mol2	C17H17N3OS      311	  1.56	 4.04	 3.04	22.50	-120
+result/process_HsDHODH/25/000000013.mol2	C17H17N3OS      311	  1.56	 4.09	 2.76	22.50	-100
+result/process_HsDHODH/25/000000014.mol2	C19H19N3O2      321	  2.13	 4.48	 4.10	 4.94	-160
+result/process_HsDHODH/25/000000015.mol2	C19H19N3O2      321	  2.13	 4.44	 3.30	 4.94	-160
+result/process_HsDHODH/25/000000016.mol2	C19H19N3O2      321	  2.13	 4.44	 2.80	 4.94	-160
+result/process_HsDHODH/25/000000017.mol2	C19H19N3O2      321	  2.13	 4.39	 2.70	 4.94	-160
+result/process_HsDHODH/25/000000018.mol2	C19H19N3O2      321	  2.13	 4.48	 3.58	 4.94	-160
+result/process_HsDHODH/25/000000019.mol2	C19H19N3O2      321	  2.13	 4.44	 3.07	 4.94	-160
+result/process_HsDHODH/25/000000020.mol2	C13H20N4SF      283	  1.46	 4.07	 5.82	18.80	-190
+result/process_HsDHODH/25/000000021.mol2	C18H19N5O       321	  1.32	 4.32	 3.27	24.10	-120
+result/process_HsDHODH/25/000000022.mol2	C19H18N4O4      366	  2.02	 5.07	 3.10	 4.94	-160

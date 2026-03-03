@@ -46,7 +46,7 @@ process_mol2() {
     fi
     
     # Retornar la línea CSV
-    echo "${smiles},${full_name},${inchi},${formula},${mw},${logp},${pkd},${struct},${synth},${chem}"
+    echo "${smiles};${full_name};${inchi};${formula};${mw};${logp};${pkd};${struct};${synth};${chem}"
 }
 
 export -f process_mol2
@@ -55,7 +55,7 @@ export -f process_mol2
 tmp_file=$(mktemp)
 
 # Crear el encabezado
-echo "SMILES,Name,InChI,Formula,MW,LogP,pKd,Structure,Synthesize,Chemical" > extracted_denovo.csv
+echo "SMILES;Name;InChI;Formula;MW;LogP;pKd;Structure;Synthesize;Chemical" > extracted_denovo.csv
 
 # Buscar arquivos mol2 nas pastas de 1 a 30 y procesarlos en paralelo
 for i in {1..30}; do
